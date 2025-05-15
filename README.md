@@ -38,10 +38,10 @@ conda init
 >. : このシステムではスクリプトの実行が無効になっているため、ファイル C:\~~~\WindowsPowerShell\profile.ps1 を読み込
 >むことができません。詳細については、「about_Execution_Policies」(https://go.microsoft.com/fwlink/?LinkID=135170) >を参照してください。
 >発生場所 行:1 文字:3
->+ . 'C:\~~~\WindowsPowerShell\profile.ps1'
->+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
->    + CategoryInfo          : セキュリティ エラー: (: ) []、PSSecurityException
->    + FullyQualifiedErrorId : UnauthorizedAccess
+>\+ . 'C:\~~~\WindowsPowerShell\profile.ps1'
+>\+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+>    \+ CategoryInfo          : セキュリティ エラー: (: ) []、PSSecurityException
+>    \+ FullyQualifiedErrorId : UnauthorizedAccess
 が出る場合がある
 
 ## 仮想環境の起動コマンド
