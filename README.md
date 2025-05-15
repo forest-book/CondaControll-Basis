@@ -9,12 +9,12 @@ Anacondaによる開発を行うこととする
 <br>
 <br>
 今回主に必要なライブラリ群
->Numpy
->Scipy
->Matplotlib
->Sympy
->Python-controll
->slycot
+>Numpy<br>
+>Scipy<br>
+>Matplotlib<br>
+>Sympy<br>
+>Python-controll<br>
+>slycot<br>
 
 ## 仮想環境の起動コマンド
 powershell,コマンドプロンプトで <br>
