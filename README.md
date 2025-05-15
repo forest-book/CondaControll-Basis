@@ -42,8 +42,8 @@ conda init
 >発生場所 行:1 文字:3<br>
 >`+` . `'C:\~~~\WindowsPowerShell\profile.ps1'`<br>
 >`+`   `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`<br>
->    `+` CategoryInfo          : セキュリティ エラー: (: ) []、PSSecurityException<br>
->    `+` FullyQualifiedErrorId : UnauthorizedAccess
+>    &emsp;`+` CategoryInfo          : セキュリティ エラー: (: ) []、PSSecurityException<br>
+>    &emsp;`+` FullyQualifiedErrorId : UnauthorizedAccess
 
 <br>が出る場合がある
 
