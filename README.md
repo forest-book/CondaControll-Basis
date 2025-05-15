@@ -4,8 +4,10 @@ anaconda(Windows) + python + githubで制御工学について勉強 <br>
 
 # Anaconda導入の背景
 主にpython仮想環境での開発はpip(PyPL)を用いていたが、今回使用するpython制御工学ライブラリの
-**python-controll**に係り必要な**slycot**の導入がWindows環境では困難であった為、Anacondaによる開発を
-行うこととする
+**python-controll**
+に係り必要な
+**slycot**
+の導入がWindows環境では困難であった為、Anacondaによる開発を行うこととする
 
 ## 仮想環境の起動コマンド
 powershell,コマンドプロンプトで <br>
