@@ -1,14 +1,14 @@
 # CondaControll-Basis
-anaconda(Windows) + python + githubで制御工学について勉強 \n
+anaconda(Windows) + python + githubで制御工学について勉強 <br>
 特にanacondaを用いたpython仮想環境をgithubで管理・共有することを目的とする
 
 ## 仮想環境の起動コマンド
-powershell,コマンドプロンプトで\n
-conda activate venv\n
+powershell,コマンドプロンプトで <br>
+conda activate venv
 
 ## 仮想環境の終了コマンド
-powershell,コマンドプロンプトで\n
-conda deactivate\n
+powershell,コマンドプロンプトで<br>
+conda deactivate
 
 ## インストール済みモジュールの確認
 conda list
