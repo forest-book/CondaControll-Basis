@@ -4,9 +4,9 @@ anaconda(Windows) + python + githubで制御工学について勉強 <br>
 
 ## 仮想環境の起動コマンド
 powershell,コマンドプロンプトで <br>
-'''
+```
 conda activate venv
-'''
+```
 
 ## 仮想環境の終了コマンド
 powershell,コマンドプロンプトで<br>
