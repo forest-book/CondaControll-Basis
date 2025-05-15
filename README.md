@@ -42,7 +42,7 @@ conda init
 >+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 >    + CategoryInfo          : セキュリティ エラー: (: ) []、PSSecurityException
 >    + FullyQualifiedErrorId : UnauthorizedAccess
-が出る場合がある
+<br>が出る場合がある
 
 ## 仮想環境の起動コマンド
 powershell,コマンドプロンプトで <br>
