@@ -39,7 +39,7 @@ conda init
 >. : このシステムではスクリプトの実行が無効になっているため、ファイル `C:\~~~\WindowsPowerShell\profile.ps1` 
 >を読み込むことができません。詳細については、
 >「about_Execution_Policies」(https://go.microsoft.com/fwlink/?LinkID=135170)
->を参照してください。
+>を参照してください。<br>
 >発生場所 行:1 文字:3<br>
 >`+` . `'C:\~~~\WindowsPowerShell\profile.ps1'`<br>
 >`+`   `~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`<br>
