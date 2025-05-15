@@ -1,5 +1,5 @@
 # CondaControll-Basis
-anaconda(Windows) + python + githubで制御工学について勉強
+anaconda(Windows) + python + githubで制御工学について勉強 \n
 特にanacondaを用いたpython仮想環境をgithubで管理・共有することを目的とする
 
 ## 仮想環境の起動コマンド
