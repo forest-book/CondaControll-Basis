@@ -16,6 +16,17 @@ Anacondaによる開発を行うこととする
 >Python-controll<br>
 >slycot<br>
 
+## 仮想環境の作成
+Anaconda Promptにて<br>
+```
+conda create -n 環境名 python=バージョン
+```
+
+具体例<br>
+```
+conda create -n venv python=3.12
+```
+
 ## 仮想環境の起動コマンド
 powershell,コマンドプロンプトで <br>
 ```
