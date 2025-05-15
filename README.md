@@ -46,7 +46,12 @@ conda init
 >    &emsp;`+` CategoryInfo          : セキュリティ エラー: (: ) []、PSSecurityException<br>
 >    &emsp;`+` FullyQualifiedErrorId : UnauthorizedAccess
 
-<br>が出る場合がある
+<br>が出る場合がある<br>
+その時は、PowerShellを管理者として実行し
+```
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+を入力（確認メッセージが出たら`Y`を入力）
 
 ## 仮想環境の起動コマンド
 powershell,コマンドプロンプトで <br>
