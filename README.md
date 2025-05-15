@@ -10,13 +10,21 @@ conda activate venv
 
 ## 仮想環境の終了コマンド
 powershell,コマンドプロンプトで<br>
+```
 conda deactivate
+```
 
 ## インストール済みモジュールの確認
+```
 conda list
+```
 
 ## 環境をファイルに保存して記録
+```
 conda env export --from-history > environment.yml
+```
 
 ## 共有されたファイルから環境を再構築
+```
 conda env create -f environment.yml
+```
